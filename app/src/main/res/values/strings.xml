@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Peluchitos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+    <string name="nuevo">Nuevo peluche</string>
+    <string name="codigo">Codigo</string>
+    <string name="nombre">Nombre</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="precio">Precio</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Busqueda">Buscar peluche</string>
+    <string name="buscar">Buscar</string>
+    <string name="eliminar">Eliminar peluche</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="tInventario">Ver inventario</string>
+    <string name="ListaPeluches">Inventario de peluches</string>
+    <string name="inventario">inventario</string>
+    <string name="agregar">agregar</string>
+</resources>
